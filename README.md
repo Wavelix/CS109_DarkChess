@@ -32,7 +32,7 @@ General (30) > Advisor (10) > Minister (5) = Chariot (5) = Horse (5) > Soldier (
 
 This was a course project with the following implementation requirements:  
 
-| Task 任务 | Points 分数 | Description 描述 |
+| Task | Points | Description |
 |-----------|------------|------------------|
 | Game Initialization | 10 | Board setup and piece shuffling |
 | Save/Load System | 20 | Text-based game state persistence |
